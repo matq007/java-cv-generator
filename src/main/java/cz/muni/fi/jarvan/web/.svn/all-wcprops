@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web
+END
+DashboardServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/DashboardServlet.java
+END
+HomeServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/HomeServlet.java
+END
+LogoutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/LogoutServlet.java
+END
+RegistrationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/RegistrationServlet.java
+END
+AboutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/AboutServlet.java
+END
+ContactServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/ContactServlet.java
+END
+E404Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134/Jarvan/src/main/java/cz/muni/fi/jarvan/web/E404Servlet.java
+END

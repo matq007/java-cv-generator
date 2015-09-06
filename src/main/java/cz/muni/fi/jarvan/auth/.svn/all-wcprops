@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/Jarvan/src/main/java/cz/muni/fi/jarvan/auth
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/XMLParser.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/136/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/XMLWriter.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/User.java
+END
+Show.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Show.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Settings.java
+END
+Work.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Work.java
+END
+Library.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Library.java
+END
+CvException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/CvException.java
+END
+Cv.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Cv.java
+END
+Registration.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/37/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Registration.java
+END
+Education.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/Education.java
+END

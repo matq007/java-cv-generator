@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web
+END
+ChangeUsernameServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/ChangeUsernameServlet.class
+END
+NewEducationServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/NewEducationServlet.class
+END
+EditWorkServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/EditWorkServlet.class
+END
+ChangePasswordServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/ChangePasswordServlet.class
+END
+CvShowServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/CvShowServlet.class
+END
+CvDeleteServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/CvDeleteServlet.class
+END
+NewWorkServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/NewWorkServlet.class
+END
+EditCvServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/EditCvServlet.class
+END
+CvEditServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/CvEditServlet.class
+END
+EditEducationServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/EditEducationServlet.class
+END
+ExportServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/ExportServlet.class
+END
+CvNewServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/web/CvNewServlet.class
+END

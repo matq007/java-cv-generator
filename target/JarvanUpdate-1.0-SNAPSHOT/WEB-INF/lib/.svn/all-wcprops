@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/lib
+END
+jstl-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.1.2.jar
+END
+slf4j-api-1.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.2.jar
+END
+standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar
+END
+slf4j-simple-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/lib/slf4j-simple-1.7.5.jar
+END

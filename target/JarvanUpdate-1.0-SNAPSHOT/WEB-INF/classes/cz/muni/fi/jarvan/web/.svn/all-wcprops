@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web
+END
+LogoutServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/LogoutServlet.class
+END
+RegistrationServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/RegistrationServlet.class
+END
+AboutServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/AboutServlet.class
+END
+ContactServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/ContactServlet.class
+END
+E404Servlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/E404Servlet.class
+END
+DashboardServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/DashboardServlet.class
+END
+HomeServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/web/HomeServlet.class
+END

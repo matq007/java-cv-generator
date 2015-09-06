@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/143/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web
+END
+CvDeleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/CvDeleteServlet.java
+END
+NewWorkServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/NewWorkServlet.java
+END
+CvEditServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/CvEditServlet.java
+END
+EditCvServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/143/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/EditCvServlet.java
+END
+ExportServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/115/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/ExportServlet.java
+END
+EditEducationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/EditEducationServlet.java
+END
+CvNewServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/CvNewServlet.java
+END
+NewEducationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/NewEducationServlet.java
+END
+ChangeUsernameServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/ChangeUsernameServlet.java
+END
+EditWorkServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/EditWorkServlet.java
+END
+ChangePasswordServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/ChangePasswordServlet.java
+END
+CvShowServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133/Jarvan/src/main/java/cz/muni/fi/jarvan/auth/web/CvShowServlet.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/143/Jarvan/target/test-classes/cz/muni/fi/jarvan/auth
+END
+UserTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/Jarvan/target/test-classes/cz/muni/fi/jarvan/auth/UserTest.class
+END
+WorkTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/Jarvan/target/test-classes/cz/muni/fi/jarvan/auth/WorkTest.class
+END
+CvTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/143/Jarvan/target/test-classes/cz/muni/fi/jarvan/auth/CvTest.class
+END
+RegistrationTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/143/Jarvan/target/test-classes/cz/muni/fi/jarvan/auth/RegistrationTest.class
+END
+EducationTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/143/Jarvan/target/test-classes/cz/muni/fi/jarvan/auth/EducationTest.class
+END

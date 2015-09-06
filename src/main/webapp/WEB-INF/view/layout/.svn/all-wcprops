@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/64/Jarvan/src/main/webapp/WEB-INF/view/layout
+END
+layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/51/Jarvan/src/main/webapp/WEB-INF/view/layout/layout.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/51/Jarvan/src/main/webapp/WEB-INF/view/layout/footer.jsp
+END
+pageMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/64/Jarvan/src/main/webapp/WEB-INF/view/layout/pageMenu.jsp
+END
+pageFooter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/Jarvan/src/main/webapp/WEB-INF/view/layout/pageFooter.jsp
+END

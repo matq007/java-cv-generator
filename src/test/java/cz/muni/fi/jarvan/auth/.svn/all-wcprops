@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/103/Jarvan/src/test/java/cz/muni/fi/jarvan/auth
+END
+WorkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/103/Jarvan/src/test/java/cz/muni/fi/jarvan/auth/WorkTest.java
+END
+CvTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/103/Jarvan/src/test/java/cz/muni/fi/jarvan/auth/CvTest.java
+END
+RegistrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/100/Jarvan/src/test/java/cz/muni/fi/jarvan/auth/RegistrationTest.java
+END
+EducationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/103/Jarvan/src/test/java/cz/muni/fi/jarvan/auth/EducationTest.java
+END
+UserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/100/Jarvan/src/test/java/cz/muni/fi/jarvan/auth/UserTest.java
+END

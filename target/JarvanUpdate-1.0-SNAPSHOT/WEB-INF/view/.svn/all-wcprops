@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/404.jsp
+END
+changePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/changePassword.jsp
+END
+cvShow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/cvShow.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/logout.jsp
+END
+registration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/registration.jsp
+END
+cvExport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/cvExport.jsp
+END
+about.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/about.jsp
+END
+cvEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/cvEdit.jsp
+END
+editCv.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/editCv.jsp
+END
+editEducation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/editEducation.jsp
+END
+cvNew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/cvNew.jsp
+END
+changeUsername.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/changeUsername.jsp
+END
+newEducation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/newEducation.jsp
+END
+dashboard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/dashboard.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/home.jsp
+END
+editWork.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/editWork.jsp
+END
+cvDelete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/cvDelete.jsp
+END
+contact.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/contact.jsp
+END
+newWork.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/view/newWork.jsp
+END

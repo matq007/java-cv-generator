@@ -1,0 +1,89 @@
+10
+
+dir
+157
+http://java-cv-generator.googlecode.com/svn/Jarvan/target
+http://java-cv-generator.googlecode.com/svn
+
+
+
+2013-06-02T22:42:15.091470Z
+144
+kralik.matus@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1b34dd9f-fa03-283d-9fb1-dfcebd02d024
+
+test-classes
+dir
+
+JarvanUpdate-1.0-SNAPSHOT
+dir
+
+classes
+dir
+
+generated-sources
+dir
+
+surefire-reports
+dir
+
+endorsed
+dir
+
+surefire
+dir
+
+site
+dir
+
+JarvanUpdate-1.0-SNAPSHOT.war
+file
+
+
+
+
+2015-08-20T15:37:19.093991Z
+8294d244a2757d885bc5612be99ee9ce
+2013-06-02T22:38:05.229281Z
+143
+kralik.matus@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+660933
+
+maven-archiver
+dir
+

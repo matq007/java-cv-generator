@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth
+END
+Registration.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Registration.class
+END
+Education.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Education.class
+END
+XMLWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/XMLWriter.class
+END
+XMLParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/XMLParser.class
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/User.class
+END
+Show.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Show.class
+END
+Settings.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Settings.class
+END
+Work.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Work.class
+END
+Library.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Library.class
+END
+CvException.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/CvException.class
+END
+Cv.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/143/Jarvan/target/JarvanUpdate-1.0-SNAPSHOT/WEB-INF/classes/cz/muni/fi/jarvan/auth/Cv.class
+END

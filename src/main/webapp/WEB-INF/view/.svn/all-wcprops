@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/146/Jarvan/src/main/webapp/WEB-INF/view
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/62/Jarvan/src/main/webapp/WEB-INF/view/404.jsp
+END
+changePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/125/Jarvan/src/main/webapp/WEB-INF/view/changePassword.jsp
+END
+cvShow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113/Jarvan/src/main/webapp/WEB-INF/view/cvShow.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/62/Jarvan/src/main/webapp/WEB-INF/view/logout.jsp
+END
+registration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/51/Jarvan/src/main/webapp/WEB-INF/view/registration.jsp
+END
+cvExport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/111/Jarvan/src/main/webapp/WEB-INF/view/cvExport.jsp
+END
+about.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/146/Jarvan/src/main/webapp/WEB-INF/view/about.jsp
+END
+cvEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/Jarvan/src/main/webapp/WEB-INF/view/cvEdit.jsp
+END
+editCv.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/128/Jarvan/src/main/webapp/WEB-INF/view/editCv.jsp
+END
+editEducation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/135/Jarvan/src/main/webapp/WEB-INF/view/editEducation.jsp
+END
+cvNew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/137/Jarvan/src/main/webapp/WEB-INF/view/cvNew.jsp
+END
+changeUsername.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/125/Jarvan/src/main/webapp/WEB-INF/view/changeUsername.jsp
+END
+newEducation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/135/Jarvan/src/main/webapp/WEB-INF/view/newEducation.jsp
+END
+dashboard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/91/Jarvan/src/main/webapp/WEB-INF/view/dashboard.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/Jarvan/src/main/webapp/WEB-INF/view/home.jsp
+END
+editWork.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/Jarvan/src/main/webapp/WEB-INF/view/editWork.jsp
+END
+cvDelete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/118/Jarvan/src/main/webapp/WEB-INF/view/cvDelete.jsp
+END
+contact.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/51/Jarvan/src/main/webapp/WEB-INF/view/contact.jsp
+END
+newWork.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/135/Jarvan/src/main/webapp/WEB-INF/view/newWork.jsp
+END
